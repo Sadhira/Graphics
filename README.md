@@ -1,1 +1,3 @@
-"Graphics tasks, using OpenGL 4 and C++" 
+# Graphics
+
+Graphics tasks, using OpenGL 4 and C++.
